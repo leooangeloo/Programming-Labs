@@ -1,0 +1,3 @@
+﻿  lab11.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 11\cosc 214 lab 11\linkedstack.h(34): warning C4715: 'linkedStackType::top': not all control paths return a value
+  COSC 214 Lab 11.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\COSC 214 Lab 11\Debug\COSC 214 Lab 11.exe

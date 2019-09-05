@@ -1,0 +1,5 @@
+﻿  Lab10COSC214.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 10\cosc 214 lab 10\linkedqueuetype.h(29): warning C4715: 'LinkedQueueType::front': not all control paths return a value
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 10\cosc 214 lab 10\linkedqueuetype.h(33): warning C4715: 'LinkedQueueType::back': not all control paths return a value
+  COSC 214 Lab 10.vcxproj -> c:\users\leo angelo\documents\visual studio 2017\Projects\COSC 214 Lab 10\Debug\COSC 214 Lab 10.exe
+  COSC 214 Lab 10.vcxproj -> c:\users\leo angelo\documents\visual studio 2017\Projects\COSC 214 Lab 10\Debug\COSC 214 Lab 10.pdb (Partial PDB)
