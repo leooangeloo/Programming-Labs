@@ -1,0 +1,2 @@
+Shoes originally costs $50 with a markdown of 0.1
+You save $5 and have a final price of $45

@@ -1,0 +1,18 @@
+Erroneous Characters: h
+Erroneous Characters: j
+Erroneous Characters: e
+Erroneous Characters: g
+Erroneous Characters: l
+Erroneous Characters: j
+Erroneous Characters: e
+Erroneous Characters: v
+Erroneous Characters: s
+Erroneous Characters: z
+Erroneous Characters: s
+Erroneous Characters: g
+Erroneous Characters: l
+There were 8 passing grades.
+There were 4 failing grades.
+There were 12 valid grades.
+Erroneous Characters: 13
+There were 25 total characters in the file.
