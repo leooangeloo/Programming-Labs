@@ -1,0 +1,5 @@
+﻿  Lab9COSC214.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 9\cosc 214 lab 9\arrayqueuetype.h(28): warning C4715: 'queueType::front': not all control paths return a value
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 9\cosc 214 lab 9\arrayqueuetype.h(32): warning C4715: 'queueType::back': not all control paths return a value
+  COSC 214 Lab 9.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\COSC 214 Lab 9\Debug\COSC 214 Lab 9.exe
+  COSC 214 Lab 9.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\COSC 214 Lab 9\Debug\COSC 214 Lab 9.pdb (Partial PDB)

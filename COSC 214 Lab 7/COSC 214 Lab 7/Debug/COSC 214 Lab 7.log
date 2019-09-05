@@ -1,0 +1,4 @@
+﻿  Lab7.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 7\cosc 214 lab 7\arraystacktype.h(38): warning C4715: 'stackType::top': not all control paths return a value
+  COSC 214 Lab 7.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\COSC 214 Lab 7\Debug\COSC 214 Lab 7.exe
+  COSC 214 Lab 7.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\COSC 214 Lab 7\Debug\COSC 214 Lab 7.pdb (Partial PDB)

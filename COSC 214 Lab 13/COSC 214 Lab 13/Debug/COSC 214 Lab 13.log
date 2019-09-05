@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 13\cosc 214 lab 13\arraystack.h(36): warning C4715: 'stackType::top': not all control paths return a value
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 13\cosc 214 lab 13\arrayqueue.h(31): warning C4715: 'queueType::front': not all control paths return a value
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 214 lab 13\cosc 214 lab 13\arrayqueue.h(35): warning C4715: 'queueType::back': not all control paths return a value
+  COSC 214 Lab 13.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\COSC 214 Lab 13\Debug\COSC 214 Lab 13.exe
