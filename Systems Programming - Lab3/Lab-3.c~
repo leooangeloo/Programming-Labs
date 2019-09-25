@@ -1,0 +1,40 @@
+#include<stdio.h>
+#include<fcntl.h>
+#include<unistd.h>
+#include<sys/types.h>
+#define BUFFSIZE 50
+
+int main(){
+  char buf[BUFFSIZE];
+  FILE * fd, * fd1;
+  fd = fopen("one.txt", "r");
+  fd1 = fopen("two.txt", "r");
+
+  if(ferror(fd)){
+    perror("fopen");
+    exit(0);
+  }
+  if(ferror(fd1)){
+    perror("fopen");
+    exit(0);
+  }
+  
+  fread("outt.txt", 1, 1, fd);
+  buf[1] = '\0';
+  
+  while(!feof(fd)){
+    fread("out.txt", 1, 1, fd);
+  }
+  
+  fread("outt.txt", 1, 1, fd1);
+  buf[1] = '\0';
+  
+  while(!feof(fd1)){
+    fread("outt.txt", 1, 1, fd1);
+  }
+  fclose(fd);
+  fclose(fd1);
+
+  return 0;
+  
+}
